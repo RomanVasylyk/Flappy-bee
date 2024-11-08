@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: 07df65736fcc14c5a89bb7c6bd38426e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 934
+        width: 299
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a55c52ce69e4b0fa583e7bcddeb56a
+      internalID: 772291765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1149
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053396cc67b1944e29d670b89df5c2ef
+      internalID: 35704149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1309bf4ad334a538d39a4291fd3873
+      internalID: 148734772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1189
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06acea065ef447498557ac000f0d999
+      internalID: 1567454159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_4
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1074
+        width: 121
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9633e9ca8170145aca2bd8200c85379b
+      internalID: 1453281473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1074
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7780d87b98445df9707bf3af294479
+      internalID: -214003501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_6
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1074
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00371d134072442b8b1f57cc703af84
+      internalID: -2135387022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_7
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1074
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8369abe9d955432696a6b7eaf7b5029
+      internalID: -461140721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_8
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1023
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3794f86d4034c679c4f6ab40e9daf5
+      internalID: 428101426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_9
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1074
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaabe3ab933f426daa9fe386bf7ec80
+      internalID: -320368668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_10
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1015
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8768fded7f34630902900276fff3f3
+      internalID: -2062134888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 899
+        width: 21
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab12bf9115c493595037d8c41b96b6
+      internalID: -918653154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_12
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 926
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4d95c14e5d444f6a3d9b0f658f545f
+      internalID: -1666240473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 900
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8fa5bcc3304bc4987dbfabb31385b
+      internalID: -1776343149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 900
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cef3ec7a3c1e443396ad12a02d49264
+      internalID: 1587047787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 900
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd67e1a56c24a74921e9e0351e449f
+      internalID: -1644145066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_16
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 940
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e8b09d4fc4c4bb2994c70824759b8c
+      internalID: -423838937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_17
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 900
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f3a02d1bae0496d8e08f9443ebf874
+      internalID: -853172121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 825
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1da3dbc9fc794123b2a2bb51cf60bbe
+      internalID: 980209537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 869
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00611569b08c4e4481455d87d2d5503
+      internalID: 1623341900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_20
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 773
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c404812c30fb2478e97c1379f01b14b1
+      internalID: 1782469222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 818
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688586b2bd00475ebf0eb06cf183ec4
+      internalID: 113130107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 799
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf0fd7275d4d45cdb0d0c5c368a60b3
+      internalID: -1007273113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 790
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce9aea7827e845dc82e0c4d1656c769
+      internalID: -795683952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 779
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2174c4a80f74ea894c39ef043b6b04
+      internalID: -567136506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 502
+        width: 299
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85049dbf3baae4c0bb0dc7edc1adfccd
+      internalID: 401513976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 785
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1e950abe186473ab1eec1a97922856
+      internalID: 1058932313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 679
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71bf13ccccf449ddb5ea2903a554dcb
+      internalID: -889979627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 679
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dd97b6dc79649f1bf646c6464714a8
+      internalID: -22133138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_29
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 679
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6770b829362547aa8f4b2af6d1b5c10
+      internalID: 1678963556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_30
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 680
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5dcd62b4fb4ecbab62d65ac6ad464
+      internalID: -1218365664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_31
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 679
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1ee8f7c3f5245d2a06565cc6d6b051
+      internalID: -1794232024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_32
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 679
+        width: 35
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b281da60e548a5b24e91823351d28
+      internalID: 1019025002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 503
+        width: 21
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3692ee630509947ceab49adc2edd6fcb
+      internalID: 904090723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_34
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 504
+        width: 35
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2853bd3f725794b62918f91b5ec87412
+      internalID: -1174462358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 504
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb5e123c006c4c02a3c7aa0f738df38
+      internalID: -138486912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_36
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 504
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1448fca557234e2686d8b4219944bd4
+      internalID: -556035604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_37
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 566
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd428f777e1481490e2357e348b598
+      internalID: 142840495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_38
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 506
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594b0ff4d16142988a2f08b5a116af5
+      internalID: -2041597294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 404
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b65dc169cd46a7ad987cb96036cac
+      internalID: 572769512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 319
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d40f5a422347fd8e99254914097a1
+      internalID: 2037144968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_41
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 319
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a99b67dc7494cada8456338cd3b7cc
+      internalID: 336928153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_42
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 315
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c593724f002f446dfaf9aa5cda660c5e
+      internalID: 2141709274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_43
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 257
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4931df425faa4f86bd870cf26a26c82
+      internalID: 17214690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_44
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 146
+        width: 35
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c2575fc09034a8d826543e18d6740c
+      internalID: -2126739824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_0: 772291765
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_1: 35704149
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_10: -2062134888
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_11: -918653154
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_12: -1666240473
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_13: -1776343149
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_14: 1587047787
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_15: -1644145066
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_16: -423838937
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_17: -853172121
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_18: 980209537
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_19: 1623341900
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_2: 148734772
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_20: 1782469222
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_21: 113130107
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_22: -1007273113
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_23: -795683952
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_24: -567136506
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_25: 401513976
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_26: 1058932313
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_27: -889979627
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_28: -22133138
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_29: 1678963556
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_3: 1567454159
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_30: -1218365664
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_31: -1794232024
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_32: 1019025002
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_33: 904090723
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_34: -1174462358
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_35: -138486912
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_36: -556035604
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_37: 142840495
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_38: -2041597294
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_39: 572769512
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_4: 1453281473
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_40: 2037144968
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_41: 336928153
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_42: 2141709274
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_43: 17214690
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_44: -2126739824
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_5: -214003501
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_6: -2135387022
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_7: -461140721
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_8: 428101426
+      84951679-cartoon-rotazione-animazione-moneta-gira-fotogramma-per-fotogramma-oro-argento-bronzo-set-di-fotor-20240311201218_9: -320368668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
